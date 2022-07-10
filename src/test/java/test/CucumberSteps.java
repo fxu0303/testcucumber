@@ -34,8 +34,6 @@ public class CucumberSteps {
 	
 	@Then("I check page googlehomepage")
 	public void i_check_page_googlehomepage() {
-
-		System.out.println("check_page_googlehomepage");
 		
 	}
 	
