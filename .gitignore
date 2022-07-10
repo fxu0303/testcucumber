@@ -1,0 +1,13 @@
+*.pyc
+venv
+.metadata
+*.log
+*.png
+*.jpg
+*.bmp
+DATA_*.xlsx
+~$*
+test-output/*
+target/*
+ssh-key
+/target/
